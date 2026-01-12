@@ -1,19 +1,26 @@
-🔐 Random Password Generator (Python)
+# Random Password Generator
 
-A simple Python-based command-line tool that generates strong and secure random passwords based on user-defined preferences such as length and character types (letters, numbers, and symbols).
+## 📌 Objective
+The objective of this project is to generate strong and secure random passwords based on user-defined length, helping users improve account security.
 
-The project helps beginners understand randomization, user input handling, and character set management, while also being expandable into an advanced GUI-based password generator with additional security features.
+---
 
-Features:
+## 🛠️ Tools & Technologies Used
+- Python 3
+- VS Code / Any Python IDE
 
-Custom password length
+---
 
-Option to include letters, numbers, and symbols
+## ⚙️ Steps Performed
+1. Took user input for the desired password length.
+2. Used Python’s built-in libraries such as `random` and `string`.
+3. Combined uppercase letters, lowercase letters, numbers, and special characters.
+4. Randomly generated a secure password.
+5. Displayed the generated password to the user.
 
-Secure and randomized password generation
+---
 
-Easy to extend with GUI and clipboard support
-
-This project is part of the OIBSIP Internship Program and demonstrates practical Python programming and security concepts.
-
- 
+## ▶️ How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MuneezaHabibKhan/OIBSIP_python_AllTasks.git
