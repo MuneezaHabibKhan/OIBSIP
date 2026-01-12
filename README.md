@@ -26,26 +26,11 @@ To calculate the Body Mass Index (BMI) using user-provided height and weight.
 A console-based BMI calculator that displays BMI value and health category.
 
 📁 Folder: `BMI-Calculator`  
-🎥 Demo Video: *(Add link here)*  
+🎥 Demo Video: https://www.linkedin.com/posts/muneeza-habib-khan-283a75327_oasisinfobyte-oasisinfobytefamily-internship-activity-7416564442227810304-T3om?utm_source=share&utm_medium=member_ios&rcm=ACoAAFKPwkMBsjfmyn9s7ftbJQptWYNw88WbVqs
+
 
 ---
-
-### 🔹 Task 2: Random Password Generator
-**Objective:**  
-To generate secure and random passwords of user-defined length.
-
-**Tools Used:**  
-- Python 3
-
-**Outcome:**  
-A password generator that creates strong and unique passwords.
-
-📁 Folder: `Random-Password-Generator`  
-🎥 Demo Video: *(Add link here)*  
-
----
-
-### 🔹 Task 3: Chat Application
+ ### 🔹 Task 2 :Chat Application
 **Objective:**  
 To develop a simple client-server chat application using Python sockets.
 
@@ -57,7 +42,21 @@ To develop a simple client-server chat application using Python sockets.
 A real-time chat application enabling communication between client and server.
 
 📁 Folder: `Chat-Application`  
-🎥 Demo Video: *(Add link here)*  
+🎥 Demo Video:  https://www.linkedin.com/posts/muneeza-habib-khan-283a75327_oasisinfobyte-oasisinfobytefamily-internship-activity-7416564615700013056-dffn?utm_source=share&utm_medium=member_ios&rcm=ACoAAFKPwkMBsjfmyn9s7ftbJQptWYNw88WbVqs 
+
+---
+### 🔹 Task 3 : Random Password Generator
+**Objective:**  
+To generate secure and random passwords of user-defined length.
+
+**Tools Used:**  
+- Python 3
+
+**Outcome:**  
+A password generator that creates strong and unique passwords.
+
+📁 Folder: `Random-Password-Generator`  
+🎥 Demo Video:  https://www.linkedin.com/posts/muneeza-habib-khan-283a75327_oasisinfobyte-oasisinfobytefamily-internship-activity-7416564840338538496-hkLH?utm_source=share&utm_medium=member_ios&rcm=ACoAAFKPwkMBsjfmyn9s7ftbJQptWYNw88WbVqs
 
 ---
 
@@ -73,7 +72,7 @@ A real-time chat application enabling communication between client and server.
   https://github.com/MuneezaHabibKhan/OIBSIP_Python_AllTasks  
 
 - **LinkedIn Post:**  
-  *(Add your LinkedIn post link here)*
+  https://www.linkedin.com/posts/muneeza-habib-khan-283a75327_oasisinfobyte-oasisinfobytefamily-internship-activity-7416564442227810304-T3om?utm_source=share&utm_medium=member_ios&rcm=ACoAAFKPwkMBsjfmyn9s7ftbJQptWYNw88WbVqs
 
 ---
 
